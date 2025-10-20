@@ -16,7 +16,7 @@ print(type(bool_index))
 index = [2,3,0]
 print(array[index])
 
-
+#Entrar a los datos
 array2 = np.random.randint(1,10,size=(3,3))
 print(array2)
 print(array2[0,1])
